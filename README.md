@@ -1,5 +1,5 @@
 
-# aws-lambda-skeleton
+# aws-lambda-example
 
 An example of using AWS Lambda function with Clojure
 
