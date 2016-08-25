@@ -10,6 +10,8 @@
                  [amazonica "0.3.52" :exclusions [com.amazonaws/aws-java-sdk]]
                  [com.amazonaws/aws-java-sdk-core "1.10.62"]
                  [com.amazonaws/aws-lambda-java-core "1.1.0"]
+                 [com.amazonaws/aws-java-sdk-elasticloadbalancing "1.11.26"
+                  :exclusions [joda-time]]
                  [com.amazonaws/aws-java-sdk-ec2 "1.10.62"
                   :exclusions [joda-time]]
                  [com.amazonaws/aws-lambda-java-events "1.1.0"
