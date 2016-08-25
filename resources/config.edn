@@ -1,2 +1,1 @@
-{:type app
- :env production}
+{:load-balancer-name my-load-balancer}
