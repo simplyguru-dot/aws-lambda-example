@@ -9,4 +9,4 @@ aws lambda create-function --debug \
   --memory 256 \
   --timeout 59 \
   --role arn:aws:iam::611066707117:role/lambda_exec_role \
-  --zip-file fileb://./target/wash-0.1.0-SNAPSHOT-standalone.jar
+  --zip-file fileb://./target/aws-lambda-example-0.1.0-SNAPSHOT-standalone.jar
